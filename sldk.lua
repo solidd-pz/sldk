@@ -88,7 +88,7 @@ local mymark = {}
 local checkpoint, cx, cy, cz = nil, 0, 0, 0
 
 local tabs = {
-    { name = "Настройки", icon = faicons('GEAR') },
+    { name = "Тест", icon = faicons('GEAR') },
     { name = "3D Маркеры", icon = faicons('LOCATION_DOT') },
     { name = "Уведомления", icon = faicons('BELL') },
     { name = "Информация", icon = faicons('CIRCLE_INFO') }
